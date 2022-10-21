@@ -1,0 +1,8 @@
+{
+  "jupyter.lab.shortcuts": [],
+  "title": "remaining-job-time",
+  "description": "remaining-job-time settings.",
+  "type": "object",
+  "properties": {},
+  "additionalProperties": false
+}

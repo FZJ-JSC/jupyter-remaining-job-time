@@ -1,0 +1,7 @@
+{
+  "ServerApp": {
+    "jpserver_extensions": {
+      "remaining_job_time": true
+    }
+  }
+}
